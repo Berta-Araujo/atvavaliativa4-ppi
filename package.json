@@ -1,0 +1,26 @@
+{
+  "name": "atvavaliativa4-ppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berta-Araujo/atvavaliativa4-ppi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Berta-Araujo/atvavaliativa4-ppi/issues"
+  },
+  "homepage": "https://github.com/Berta-Araujo/atvavaliativa4-ppi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
